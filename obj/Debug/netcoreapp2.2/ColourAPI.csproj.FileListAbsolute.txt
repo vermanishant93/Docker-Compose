@@ -1,0 +1,7 @@
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.csproj.AssemblyReference.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.AssemblyInfoInputs.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.AssemblyInfo.cs
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.csproj.CoreCompileInputs.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.RazorAssemblyInfo.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp2.2/ColourAPI.RazorAssemblyInfo.cs

@@ -1,0 +1,17 @@
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/appsettings.Development.json
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/appsettings.json
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/ColourAPI
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/ColourAPI.deps.json
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/ColourAPI.runtimeconfig.json
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/ColourAPI.dll
+/Users/verma/Projects/Docker Compose/ColourAPI/bin/Debug/netcoreapp9.0/ColourAPI.pdb
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.AssemblyInfoInputs.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.AssemblyInfo.cs
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.csproj.CoreCompileInputs.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.dll
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/refint/ColourAPI.dll
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.pdb
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ColourAPI.genruntimeconfig.cache
+/Users/verma/Projects/Docker Compose/ColourAPI/obj/Debug/netcoreapp9.0/ref/ColourAPI.dll
